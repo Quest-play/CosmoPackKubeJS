@@ -1,0 +1,15 @@
+{
+    "bountiful.decree.mechanic.name" : "Mechanic",
+    "bountiful.entry.metal_obj_raw_zinc" : "Any raw zinc",
+    "bountiful.entry.metal_obj_raw_tin": "Any raw tin",
+    "bountiful.entry.metal_obj_raw_lead": "Any raw lead",
+    "bountiful.entry.metal_obj_raw_uranium": "Any raw uranium",
+    "bountiful.entry.metal_obj_raw_silver": "Any raw silver",
+    "bountiful.entry.metal_obj_raw_nickel": "Any raw nickel",
+    "bountiful.entry.metal_obj_tin": "Any tin ingot",
+    "bountiful.entry.metal_obj_lead": "Any lead ingot",
+    "bountiful.entry.metal_obj_uranium": "Any uranium",
+    "bountiful.entry.metal_obj_silver": "Any silver ingot",
+    "bountiful.entry.metal_obj_zinc": "Any zinc ingot",
+    "bountiful.entry.metal_obj_nickel": "Any nickel ingot"
+}

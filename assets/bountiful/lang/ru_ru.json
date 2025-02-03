@@ -1,0 +1,15 @@
+{
+    "bountiful.decree.mechanic.name": "Механик",
+    "bountiful.entry.metal_obj_raw_zinc": "Любой необработанный цинк",
+    "bountiful.entry.metal_obj_raw_tin": "Любое необработанное олово",
+    "bountiful.entry.metal_obj_raw_lead": "Любой необработанный свинец",
+    "bountiful.entry.metal_obj_raw_uranium": "Любой необработанный уран",
+    "bountiful.entry.metal_obj_raw_silver": "Любое необработанное серебро",
+    "bountiful.entry.metal_obj_raw_nickel": "Любой необработанный никель",
+    "bountiful.entry.metal_obj_tin": "Любой слиток олова",
+    "bountiful.entry.metal_obj_lead": "Любой свинцовый слиток",
+    "bountiful.entry.metal_obj_uranium": "Любой уран",
+    "bountiful.entry.metal_obj_silver": "Любой серебряный слиток",
+    "bountiful.entry.metal_obj_zinc": "Любой цинковый слиток",
+    "bountiful.entry.metal_obj_nickel": "Любой никелевый слиток"
+}
