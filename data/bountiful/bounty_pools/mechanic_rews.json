@@ -1,0 +1,105 @@
+{
+    "content": {
+        "mechanic_rew_andesite_alloy": {
+            "type": "item",
+            "content": "create:andesite_alloy",
+            "amount": {
+                "min": 1,
+                "max": 16
+            },
+            "unitWorth": 400
+        },
+        "mechanic_rew_cogwheel": {
+            "type": "item",
+            "content": "create:cogwheel",
+            "amount": {
+                "min": 1,
+                "max": 16
+            },
+            "unitWorth": 650
+        },
+        "mechanic_rew_large_cogwheel": {
+            "type": "item",
+            "content": "create:large_cogwheel",
+            "amount": {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 950
+        },
+        "mechanic_rew_shaft": {
+            "type": "item",
+            "content": "create:shaft",
+            "amount": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 650
+        },
+        "mechanic_rew_brass_ingot": {
+            "type": "item",
+            "content": "create:brass_ingot",
+            "amount": {
+                "min": 1,
+                "max": 12
+            },
+            "unitWorth": 950,
+            "rarity": "RARE"
+        },
+        "mechanic_rew_andesite_casing": {
+            "type": "item",
+            "content": "create:andesite_casing",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 900
+        },
+        "mechanic_rew_brass_casing": {
+            "type": "item",
+            "content": "create:brass_casing",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 1600,
+            "rarity": "RARE"
+        },
+        "mechanic_rew_infused_alloy": {
+            "type": "item",
+            "content": "mekanism:alloy_infused",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 2000,
+            "rarity": "UNCOMMON",
+            "timeMult" : 2.0,
+            "repRequired" : 10
+        },
+        "mechanic_rew_reinforced_alloy": {
+            "type": "item",
+            "content": "mekanism:alloy_reinforced",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 3000,
+            "rarity": "EPIC",
+            "timeMult" : 2.0,
+            "repRequired" : 20
+        },
+        "mechanic_rew_atomic_alloy": {
+            "type": "item",
+            "content": "mekanism:alloy_atomic",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 4000,
+            "rarity": "LEGENDARY",
+            "timeMult" : 2.0,
+            "repRequired" : 30
+        }
+    }
+}

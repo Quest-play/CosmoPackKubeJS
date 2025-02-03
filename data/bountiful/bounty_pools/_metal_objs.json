@@ -1,0 +1,233 @@
+{
+    "replace": false,
+    "content": {
+        "metal_obj_raw_osmium": {
+            "type": "item",
+            "content": "mekanism:raw_osmium",
+            "amount": {
+                "min": 2,
+                "max": 24
+            },
+            "unitWorth": 1100
+        },
+        "metal_obj_raw_tin": {
+            "type": "item_tag",
+            "content": "forge:raw_materials/tin",
+            "amount": {
+                "min": 4,
+                "max": 32
+            },
+            "unitWorth": 900
+        },
+        "metal_obj_raw_lead": {
+            "type": "item_tag",
+            "content": "forge:raw_materials/lead",
+            "amount": {
+                "min": 3,
+                "max": 21
+            },
+            "unitWorth": 1400
+        },
+        "metal_obj_raw_uranium": {
+            "type": "item_tag",
+            "content": "forge:raw_materials/uranium",
+            "amount": {
+                "min": 3,
+                "max": 18
+            },
+            "unitWorth": 1700,
+            "rarity": "RARE"
+        },
+        "metal_obj_uraninite_raw": {
+            "type": "item",
+            "content": "powah:uraninite_raw",
+            "amount": {
+                "min": 3,
+                "max": 18
+            },
+            "unitWorth": 1700,
+            "rarity": "RARE"
+        },
+        "metal_obj_raw_naquadah": {
+            "type": "item",
+            "content": "mekanism_extras:raw_naquadah",
+            "amount": {
+                "min": 3,
+                "max": 18
+            },
+            "unitWorth": 2000,
+            "rarity": "EPIC"
+        },
+        "metal_obj_raw_aluminum": {
+            "type": "item",
+            "content": "createdefensive:raw_aluminum",
+            "amount": {
+                "min": 3,
+                "max": 32
+            },
+            "unitWorth": 1000
+        },
+        "metal_obj_raw_platinum": {
+            "type": "item",
+            "content": "createdefensive:raw_platinum",
+            "amount": {
+                "min": 3,
+                "max": 12
+            },
+            "unitWorth": 2000,
+            "rarity": "LEGENDARY"
+        },
+        "metal_obj_raw_silver": {
+            "type": "item_tag",
+            "content": "forge:raw_materials/silver",
+            "amount": {
+                "min": 4,
+                "max": 24
+            },
+            "unitWorth": 1300,
+            "rarity": "RARE"
+        },
+        "metal_obj_raw_zinc": {
+            "type": "item_tag",
+            "content": "forge:raw_materials/zinc",
+            "amount": {
+                "min": 4,
+                "max": 32
+            },
+            "unitWorth": 900
+        },
+        "metal_obj_raw_yellorium": {
+            "type": "item",
+            "content": "bigreactors:raw_yellorium",
+            "amount": {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 1800,
+            "rarity": "EPIC"
+        },
+        "metal_obj_raw_nickel": {
+            "type": "item_tag",
+            "content": "forge:raw_materials/nickel",
+            "amount": {
+                "min": 4,
+                "max": 28
+            },
+            "unitWorth": 1000
+        },
+        "metal_obj_osmium": {
+            "type": "item",
+            "content": "mekanism:ingot_osmium",
+            "amount": {
+                "min": 2,
+                "max": 24
+            },
+            "unitWorth": 1300
+        },
+        "metal_obj_tin": {
+            "type": "item_tag",
+            "content": "forge:ingots/tin",
+            "amount": {
+                "min": 4,
+                "max": 32
+            },
+            "unitWorth": 1100
+        },
+        "metal_obj_lead": {
+            "type": "item_tag",
+            "content": "forge:ingots/lead",
+            "amount": {
+                "min": 3,
+                "max": 21
+            },
+            "unitWorth": 1600
+        },
+        "metal_obj_uranium": {
+            "type": "item_tag",
+            "content": "forge:ingots/uranium",
+            "amount": {
+                "min": 3,
+                "max": 18
+            },
+            "unitWorth": 1900,
+            "rarity": "RARE"
+        },
+        "metal_obj_uraninite": {
+            "type": "item",
+            "content": "powah:uraninite",
+            "amount": {
+                "min": 3,
+                "max": 18
+            },
+            "unitWorth": 1900,
+            "rarity": "RARE"
+        },
+        "metal_obj_naquadah": {
+            "type": "item",
+            "content": "mekanism_extras:ingot_naquadah",
+            "amount": {
+                "min": 3,
+                "max": 18
+            },
+            "unitWorth": 2300,
+            "rarity": "EPIC"
+        },
+        "metal_obj_aluminum": {
+            "type": "item",
+            "content": "createdefensive:aluminum_ingot",
+            "amount": {
+                "min": 3,
+                "max": 32
+            },
+            "unitWorth": 1200
+        },
+        "metal_obj_platinum": {
+            "type": "item",
+            "content": "createdefensive:platinum_ingot",
+            "amount": {
+                "min": 3,
+                "max": 12
+            },
+            "unitWorth": 2400,
+            "rarity": "LEGENDARY"
+        },
+        "metal_obj_silver": {
+            "type": "item_tag",
+            "content": "forge:ingots/silver",
+            "amount": {
+                "min": 4,
+                "max": 24
+            },
+            "unitWorth": 1500,
+            "rarity": "RARE"
+        },
+        "metal_obj_zinc": {
+            "type": "item_tag",
+            "content": "forge:ingots/zinc",
+            "amount": {
+                "min": 4,
+                "max": 32
+            },
+            "unitWorth": 1100
+        },
+        "metal_obj_yellorium": {
+            "type": "item",
+            "content": "bigreactors:yellorium_ingot",
+            "amount": {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 2100,
+            "rarity": "EPIC"
+        },
+        "metal_obj_nickel": {
+            "type": "item_tag",
+            "content": "forge:ingots/nickel",
+            "amount": {
+                "min": 4,
+                "max": 28
+            },
+            "unitWorth": 1200
+        }
+    }
+}

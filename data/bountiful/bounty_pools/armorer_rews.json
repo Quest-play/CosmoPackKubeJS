@@ -1,0 +1,199 @@
+{
+    "replace": false,
+    "content": {
+        "armorer_rew_zinc_helmet": {
+            "type": "item",
+            "content": "createdefensive:zinc_helmet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 3500,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "create:zinc_ingot"
+                }
+            ]
+        },
+        "armorer_rew_zinc_chestplate": {
+            "type": "item",
+            "content": "createdefensive:zinc_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 6000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "create:zinc_ingot"
+                }
+            ]
+        },
+        "armorer_rew_zinc_leggings": {
+            "type": "item",
+            "content": "createdefensive:zinc_leggings",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5200,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "create:zinc_ingot"
+                }
+            ]
+        },
+        "armorer_rew_zinc_boots": {
+            "type": "item",
+            "content": "createdefensive:zinc_boots",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2800,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "create:zinc_ingot"
+                }
+            ]
+        },
+
+
+        "armorer_rew_aluminum_helmet": {
+            "type": "item",
+            "content": "createdefensive:aluminum_helmet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 3700,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "createdefensive:aluminum_ingot"
+                }
+            ]
+        },
+        "armorer_rew_aluminum_chestplate": {
+            "type": "item",
+            "content": "createdefensive:aluminum_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 6200,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "createdefensive:aluminum_ingot"
+                }
+            ]
+        },
+        "armorer_rew_aluminum_leggings": {
+            "type": "item",
+            "content": "createdefensive:aluminum_leggings",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5400,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "createdefensive:aluminum_ingot"
+                }
+            ]
+        },
+        "armorer_rew_aluminum_boots": {
+            "type": "item",
+            "content": "createdefensive:aluminum_boots",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 3000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "createdefensive:aluminum_ingot"
+                }
+            ]
+        },
+        "armorer_rew_copper_helmet": {
+            "type": "item",
+            "content": "createdefensive:copper_helmet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2700,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:copper_ingot"
+                }
+            ]
+        },
+        "armorer_rew_copper_chestplate": {
+            "type": "item",
+            "content": "createdefensive:copper_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5200,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:copper_ingot"
+                }
+            ]
+        },
+        "armorer_rew_copper_leggings": {
+            "type": "item",
+            "content": "createdefensive:copper_leggings",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4400,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:copper_ingot"
+                }
+            ]
+        },
+        "armorer_rew_copper_boots": {
+            "type": "item",
+            "content": "createdefensive:copper_boots",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:copper_ingot"
+                }
+            ]
+        }
+    }
+}

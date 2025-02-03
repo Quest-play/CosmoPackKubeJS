@@ -1,0 +1,12 @@
+{
+    "objectives": [
+        "_all_objs",
+        "_metal_objs",
+        "inventor_objs"
+    ],
+    "rewards": [
+        "_all_rews",
+        "inventor_rews",
+        "mechanic_rews"
+    ]
+}
